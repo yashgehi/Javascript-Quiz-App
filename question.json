@@ -1,0 +1,82 @@
+ [{
+         "question": "Inside which HTML element do we put the JavaScript??",
+         "choice1": "<script>",
+         "choice2": "<javascript>",
+         "choice3": "<js>",
+         "choice4": "<scripting>",
+         "answer": 1
+     },
+     {
+         "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+         "choice1": "<script href='xxx.js'>",
+         "choice2": "<script name='xxx.js'>",
+         "choice3": "<script src='xxx.js'>",
+         "choice4": "<script file='xxx.js'>",
+         "answer": 3
+     },
+     {
+         "question": " How do you write 'Hello World' in an alert box?",
+         "choice1": "msgBox('Hello World');",
+         "choice2": "alertBox('Hello World');",
+         "choice3": "msg('Hello World');",
+         "choice4": "alert('Hello World');",
+         "answer": 4
+     },
+     {
+         "question": "JavaScript is ______ language.",
+         "choice1": "Scripting;",
+         "choice2": " Programming;",
+         "choice3": "Both a and b;",
+         "choice4": "Application;",
+         "answer": 1
+     },
+     {
+         "question": "The behaviour of the document elements can be defined by",
+         "choice1": "Using document object;",
+         "choice2": " Registering appropriate event handlers;",
+         "choice3": "Using element object;",
+         "choice4": "All of the mentioned;",
+         "answer": 2
+     },
+     {
+         "question": " Which of the following are not advanced services ?",
+         "choice1": "Data storage;",
+         "choice2": " Networking;",
+         "choice3": "XMLHttpRequest object;",
+         "choice4": "None of the mentioned;",
+         "answer": 4
+     },
+     {
+         "question": " Which types of image maps can be used with JavaScript?",
+         "choice1": "Server-side image maps;",
+         "choice2": "Client-side image maps;",
+         "choice3": "Server-side image maps and Client-side image maps;",
+         "choice4": "None of the above;",
+         "answer": 2
+     },
+     {
+         "question": "How does JavaScript store dates in a date object?",
+         "choice1": "The number of milliseconds since January 1st,1970;",
+         "choice2": "The number of days since January 1 st,1900;",
+         "choice3": "The number of seconds since Netscape 's public stock offering.;",
+         "choice4": "None of the above;",
+         "answer": 1
+     },
+     {
+         "question": "What does the <noscript> tag do?",
+         "choice1": "Enclose text to be displayed by non-JavaScript browsers.;",
+         "choice2": " Prevents scripts on the page from executing.;",
+         "choice3": "Describes certain low-budget movies.;",
+         "choice4": "None of the above;",
+         "answer": 1
+     },
+     {
+         "question": "Choose the server-side JavaScript object?",
+         "choice1": "FileUpLoad;",
+         "choice2": "Function;",
+         "choice3": "File;",
+         "choice4": "Date;",
+         "answer": 3
+     }
+
+ ]
